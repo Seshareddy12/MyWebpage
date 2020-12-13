@@ -1,0 +1,30 @@
+.ul-nav{
+
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #23272a;
+    
+
+}
+.ul-nav li{
+    float: left;
+    
+}
+
+
+
+li a{
+    display: block;
+    text-align: center;
+    padding: 16px 16px 16px 16px;
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+    background-color: white;
+    color: black;
+}
+input{
+    position: absolute;
+    left: 150px;
+}
