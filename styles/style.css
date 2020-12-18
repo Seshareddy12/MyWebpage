@@ -26,5 +26,15 @@ li a:hover{
 }
 input{
     position: absolute;
-    left: 150px;
+    left: 300px;
+}
+
+img{
+    margin-left: 10px;
+    border:2px solid black;
+}
+
+#admin{
+    float:right;
+    margin-right:30px;
 }
